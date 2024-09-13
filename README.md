@@ -1,3 +1,7 @@
+header {
+  display: none;
+}
+
 # Headers
 # H1
 ## H2
